@@ -97,7 +97,7 @@
     <img src="asset/images/Untitled.png" alt="Your Image" class="profile-image">
     <!-- Contact Links (GitHub, Resume, LinkedIn, Email) -->
       <div class="contact-links">
-      <a href="https://github.com/yourusername" target="_blank">GitHub</a> |
+      <a href="https://github.com/thusharanv" target="_blank">GitHub</a> |
       <a href="https://www.linkedin.com/in/thushara-namath-vadakkemadathil-606a93187" target="_blank">LinkedIn</a> |
       <a href="https://example.com/your-resume.pdf" target="_blank">Resume</a> |
       <a href="mailto:tnv@udel.edu">Email</a>
