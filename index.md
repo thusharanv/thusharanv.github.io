@@ -94,7 +94,7 @@
 <div class="container">
   <!-- Left side with image and details -->
   <div class="left-side">
-    <img src="asset/images/Untitled.png" alt="Your Image" class="profile-image">
+    <img src="asset/image/Untitled.png" alt="Your Image" class="profile-image">
     <!-- Contact Links (GitHub, Resume, LinkedIn, Email) -->
       <div class="contact-links">
       <a href="https://github.com/yourusername" target="_blank">GitHub</a> |
