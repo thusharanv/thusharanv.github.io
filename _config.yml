@@ -8,11 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   About Me
   <br><br>
-  Enthusiastic and detail-oriented Data Science graduate | Strong foundation in programming, database management, and data analysis | Passionate about transforming complex datasets into actionable insights | Proficient in Python, SQL, and R 
- 
- 
-
-  
+  Enthusiastic and detail-oriented Data Science graduate | Strong foundation in programming, database management, and data analysis | Passionate about transforming complex datasets into actionable insights | Proficient in Python, SQL, and R  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
