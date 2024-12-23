@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
+title: Thushara N. Vadakkemadathil # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <a href="https://github.com/thusharanv" target="_blank">GitHub</a> |
+  <a href="https://www.linkedin.com/in/thushara-namath-vadakkemadathil-606a93187" target="_blank">LinkedIn</a> |
+  <a href="https://example.com/your-resume.pdf" target="_blank">Resume</a> |
+  <a href="mailto:tnv@udel.edu">Email</a>
   <br><br>
-  Second description 
+  About Me
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Enthusiastic and detail-oriented Data Science graduate | Strong foundation in programming, database management, and data analysis | Passionate about transforming complex datasets into actionable insights | Proficient in Python, SQL, and R 
+ 
+ 
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
