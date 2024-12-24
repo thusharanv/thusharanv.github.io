@@ -1,4 +1,7 @@
-## Portfolio
+## Education
+    M.S in Data Science  University of Delaware, DE, USA  - Feb 2022 – Dec 2024 GPA: 4.0
+    Master of Computer Applications Chinmaya Institute of Technology, Kannur University, India - Aug 2008 – Nov 2011
+ 
 
 ---
 
