@@ -5,6 +5,15 @@
     <li><strong>Chinmaya Institute of Technology</strong>, Kannur University, India <br>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;     &nbsp; &nbsp; &nbsp;
     Master of Computer Applications - Aug 2008 – Nov 2011</li>
 </ul>
+
+### Skills & Expertise
+    <ul>
+      <li><strong>Programming Languages:</strong> Python, R, SQL, C, C++</li>
+      <li><strong>Data Analysis & Visualization:</strong> Pandas, Matplotlib, Seaborn</li>
+      <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow</li>
+      <li><strong>Database Management:</strong> PostgreSQL, MySQL</li>
+    </ul>
+
  
 ### Category Name 1 
 
