@@ -4,9 +4,6 @@
     Master of Computer Applications 
     Chinmaya Institute of Technology, Kannur University, India - Aug 2008 – Nov 2011
  
-
----
-
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
