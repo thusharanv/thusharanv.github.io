@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://example.com/your-resume.pdf" target="_blank">Resume</a> |
   <a href="mailto:tnv@udel.edu">Email</a>
   <br><br>
-  <strong>About Me</strong>
+  <strong> <font color ="#0d3b66"> About Me </font></strong>
   <br><br>
   Enthusiastic and detail-oriented Data Science graduate | Strong foundation in programming, database management, and data analysis | Passionate about transforming complex datasets into actionable insights | Proficient in Python, SQL, and R  
 remote_theme: pages-themes/minimal@v0.2.0
