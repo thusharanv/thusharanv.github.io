@@ -7,12 +7,12 @@
 </ul>
 
 ### Skills & Expertise
-    <ul>
-      <li><strong>Programming Languages:</strong> Python, R, SQL, C, C++</li>
-      <li><strong>Data Analysis & Visualization:</strong> Pandas, Matplotlib, Seaborn</li>
-      <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow</li>
-      <li><strong>Database Management:</strong> PostgreSQL, MySQL</li>
-    </ul>
+<ul>
+<li><strong>Programming Languages:</strong> Python, R, SQL, C, C++</li>
+<li><strong>Data Analysis & Visualization:</strong> Pandas, Matplotlib, Seaborn</li>
+<li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow</li>
+<li><strong>Database Management:</strong> PostgreSQL, MySQL</li>
+</ul>
 
  
 ### Category Name 1 
